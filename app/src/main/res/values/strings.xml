@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Payment App</string>
+    <string name="amount_title">Ingrese el monto</string>
+    <string name="payment_method_title">Seleccione el medio de pago</string>
+    <string name="card_issuer_title">Seleccione el banco</string>
+    <string name="installment_title">Ingrese el número de cuotas</string>
+    <string name="amount">Amount</string>
+    <string name="dues">Cuotas</string>
+
+    <string name="next_button">Next</string>
+    <string name="next_finish">Finish</string>
+
+    <string name="error_general_campoVacio">¡Ups! Te falta llenar este campo.</string>
+    <string name="error_operacion_importeCero">El importe debe ser mayor de 0.00</string>
+    <string name="empty_view">No hay información para mostrar</string>
+
+    <!-- Fonts -->
+    <string-array name="fonts">
+        <item>Regular.ttf</item>
+        <item>Medium.ttf</item>
+        <item>Black.ttf</item>
+    </string-array>
+</resources>
